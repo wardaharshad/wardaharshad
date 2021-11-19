@@ -1,16 +1,15 @@
-### Hi there 👋
+# Programmer Unais Ali.
+<img src="https://raw.githubusercontent.com/unaisshazan/unaisshazan/master/images/hello.gif" width="30"> <br />Hello World, I am <strong>Unais Ali</strong>.<br />
+I am a Full Stack Developer.<br/>
+I Love Coding and  programming
+<br/>
+<br/>
 
-<!--
-**wardaharshad/wardaharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=unaisshazan&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaisshazan&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Work and website
+-[Portfolio](http://www.unaisali.com)
+<br />
+-[My Startup](https://www.utech-edu.com)
+<br />
