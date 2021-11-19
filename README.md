@@ -1,5 +1,5 @@
 # Programmer Wardah Arshad.
-<img src="https://raw.githubusercontent.com/wardaharshad/wardaharshad/master/image/hello.gif" width="30"> <br />Hello World, I am <strong>Wardah Arshad</strong>.<br />
+<img src="https://github.com/wardaharshad/wardaharshad/blob/main/Image/hello.gif" width="30"> <br />Hello World, I am <strong>Wardah Arshad</strong>.<br />
 I am a self taught Python Programmer.<br/>
 I like to work on IoT, AI, and Data Science Projects. <br/>
 I am also a Graphic Designer & Video Editor and work as a part-time freelancer. <br/>
