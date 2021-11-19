@@ -1,15 +1,17 @@
-# Programmer Unais Ali.
-<img src="https://raw.githubusercontent.com/unaisshazan/unaisshazan/master/images/hello.gif" width="30"> <br />Hello World, I am <strong>Unais Ali</strong>.<br />
-I am a Full Stack Developer.<br/>
-I Love Coding and  programming
+# Programmer Wardah Arshad.
+<img src="https://raw.githubusercontent.com/wardaharshad/wardaharshad/master/images/hello.gif" width="30"> <br />Hello World, I am <strong>Wardah Arshad</strong>.<br />
+I am a self taught Python Programmer.<br/>
+I like to work on IoT, AI, and Data Science Projects. <br/>
+I am also a Graphic Designer & Video Editor and work as a part-time freelancer. <br/>
+Electronics Engineer from NEDUET.
 <br/>
 <br/>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=unaisshazan&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaisshazan&layout=compact&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=wardaharshad&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaharshad&layout=compact&theme=radical)
 
 # My Work and website
--[Portfolio](http://www.unaisali.com)
+-[LinkedIn](https://www.linkedin.com/in/wardah-arshad-4b467021b/)
 <br />
 -[My Startup](https://www.utech-edu.com)
 <br />
