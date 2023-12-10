@@ -13,7 +13,7 @@ Holds a Bachelor's degree in Electronics from NED University of Engineering and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wardaharshad&layout=compact&theme=radical)
 
 # My Work and website
--[LinkedIn](https://www.linkedin.com/in/wardah-arshad-4b467021b/)
+-[LinkedIn](https://www.linkedin.com/in/wardaharshad/)
 <br />
 -[My Startup](https://www.utech-edu.com)
 <br />
