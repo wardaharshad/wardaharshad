@@ -2,8 +2,8 @@
 <img src="https://github.com/wardaharshad/wardaharshad/blob/main/Image/hello.gif" width="30"> <br />Hello World, I am <strong>Wardah Arshad</strong>.<br />
 Data Analyst & AI Engineer<br/>
 I like to work on AI, Data Analysis and Data Science Projects. <br/>
-Comprehensive understanding of data analysis, including proficiency in Microsoft Power BI. <br/>
-Accomplished track record in developing Neural Networks and data science. <br/>
+I have a comprehensive understanding of data analysis, including proficiency in Microsoft Power BI <br/>
+and accomplished track record in developing Neural Networks and data science. <br/>
 Expertise in data modeling, deep learning, and machine learning algorithms. <br/>
 Holds a Bachelor's degree in Electronics from NED University of Engineering and Technology..
 <br/>
