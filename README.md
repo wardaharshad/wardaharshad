@@ -3,8 +3,8 @@
 Data Analyst & AI Engineer<br/>
 I like to work on AI, Data Analysis and Data Science Projects. <br/>
 I have a comprehensive understanding of data analysis, including proficiency in Microsoft Power BI <br/>
-and accomplished track record in developing Neural Networks and data science. <br/>
-Expertise in data modeling, deep learning, and machine learning algorithms. <br/>
+and accomplished track record in developing Neural Networks with a deep understanding of data structures. <br/>
+My expertise are in data modeling, deep learning, and machine learning algorithms. <br/>
 Holds a Bachelor's degree in Electronics from NED University of Engineering and Technology..
 <br/>
 <br/>
