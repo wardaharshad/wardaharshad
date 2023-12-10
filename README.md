@@ -1,9 +1,11 @@
 # Programmer Wardah Arshad.
 <img src="https://github.com/wardaharshad/wardaharshad/blob/main/Image/hello.gif" width="30"> <br />Hello World, I am <strong>Wardah Arshad</strong>.<br />
-I am a self taught Python Programmer.<br/>
-I like to work on IoT, AI, and Data Science Projects. <br/>
-I am also a Graphic Designer & Video Editor and work as a part-time freelancer. <br/>
-Electronics Engineer from NEDUET.
+Data Analyst & AI Engineer<br/>
+I like to work on AI, Data Analysis and Data Science Projects. <br/>
+Comprehensive understanding of data analysis, including proficiency in Microsoft Power BI. <br/>
+Accomplished track record in developing Neural Networks and data science. <br/>
+Expertise in data modeling, deep learning, and machine learning algorithms. <br/>
+Holds a Bachelor's degree in Electronics from NED University of Engineering and Technology..
 <br/>
 <br/>
 
